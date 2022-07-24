@@ -1,0 +1,38 @@
+body{
+   background-image:url("795479-download-cool-sunset-backgrounds-2560x1600-photo.jpg") ; 
+   color:aliceblue;
+}
+p{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+h1{
+    font-family: 'Fascinate', cursive;
+}
+b{
+    font-family: 'Fascinate', cursive;
+}
+#webcam{
+width:350 ;
+height:350;
+border:3px ridge rgb(209, 230, 248);
+
+}
+#capture{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    background-color: rgb(97, 201, 246);
+    color: aliceblue;
+    border-radius: 40px;
+    width: 100px;
+    height:50px;
+}
+#identify{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    background-color: rgb(97, 201, 246);
+    color: aliceblue;
+    border-radius: 40px;
+    width: 100px;
+    height:50px;
+}
+label{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
